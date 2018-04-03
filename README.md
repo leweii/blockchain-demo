@@ -1,18 +1,15 @@
 # Blockchain Demo
 A web-based demonstration of blockchain concepts.
 
-[![Blockchain 101 - Demo](https://img.youtube.com/vi/_160oMzblY8/0.jpg)](https://www.youtube.com/watch?v=_160oMzblY8)
+forked from anders94/blockchain-demo
 
-This is a very basic visual introduction to the concepts behind a blockchain. We introduce 
-the idea of an immutable ledger using an interactive web demo that is available here:
-
-http://anders.com/blockchain/
+orignal demo page http://anders.com/blockchain/
 
 ## Setup
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/ontsol-ltd/blockchain-demo.git
 ```
 
 Install dependencies:
@@ -48,7 +45,7 @@ http://localhost:3000
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/ontsol-ltd/blockchain-demo.git
 ```
 
 Run the Docker setup:
@@ -89,4 +86,4 @@ The 2nd part of the 101 session:
 
 ![](public/images/qr.png)
 
-Bitcoin gratefully accepted: `1K3NvcuZzVTueHW1qhkG2Cm3viRkh2EXJp`
+Bitcoin gratefully accepted: `1DKw7iWi7j3gYPBcvJXs3qWovtPLRqMynS`
